@@ -1,5 +1,5 @@
 # SortingArray
-This is a python code for sorting n numbers of a sequence in increasing order.
+#This is a python code for sorting n numbers of a sequence in increasing order.
 def Sort(seq): #sorts an array of n elements
     n=len(seq)
     stop=1
